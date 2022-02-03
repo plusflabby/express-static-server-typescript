@@ -1,6 +1,6 @@
 {
   "name": "express-static-server",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "sweet and simple",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
     "static",
     "express",
     "server",
-    "typescript"
+    "typescript",
+    "docker"
   ],
   "author": "+Flabby",
   "license": "MIT",
